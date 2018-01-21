@@ -20,7 +20,7 @@ function inc (a) {
 
 function dec (a) {
   let n = a;
-  return n--;
+  return n-1;
 }
 
 function makeInt(a) {
