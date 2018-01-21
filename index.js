@@ -22,4 +22,4 @@ function dec (a) {
   a--;
 }
 
-function
+function makeInt
