@@ -15,17 +15,17 @@ function divide(a,b) {
 }
 
 function inc (a) {
-  a++;
+  return a++;
 }
 
 function dec (a) {
-  a--;
+  return a--;
 }
 
 function makeInt(a) {
-  parseInt(a, 10);
+  return parseInt(a, 10);
 }
 
 function preserveDecimal(n) {
-  parseFloat(n);
+  return parseFloat(n);
 }
