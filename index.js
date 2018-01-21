@@ -19,7 +19,8 @@ function inc (a) {
 }
 
 function dec (a) {
-  return a--;
+  let n = a;
+  return n--;
 }
 
 function makeInt(a) {
